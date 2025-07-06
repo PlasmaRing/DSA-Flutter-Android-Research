@@ -13,14 +13,14 @@ This repository contains the testing application and detailed output results use
 - **Comparative Security Assessment Report for Flutter Application.pdf**  
   A comprehensive summary document detailing the output results of the analysis.
 
-## Folder Naming Conventions
+## Version Naming Convention
 
-The folders within this repository are named according to the Flutter version used, as follows:
+Both APK files and folders in this repository are named with numeric codes corresponding to Flutter versions as follows:
 
-| Folder Name | Flutter Version |
-|-------------|-----------------|
-| `200`       | 2.0.0           |
-| `210`       | 2.10.0          |
-| `3700`      | 3.7.0           |
-| `31660`     | 3.16.6          |
-| `32700`     | 3.27.0          |
+| Name    | Represents Flutter Version |
+|---------|----------------------------|
+| `200`   | 2.0.0                      |
+| `210`   | 2.10.0                     |
+| `3700`  | 3.7.0                      |
+| `31660` | 3.16.6                     |
+| `32700` | 3.27.0                     |
